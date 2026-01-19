@@ -6,6 +6,7 @@
  * \date   January 2026
  *********************************************************************/
 #pragma once
+#include <cstdint>
 #include "MemoryDevice.h"
 
 /**
